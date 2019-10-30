@@ -3,7 +3,7 @@
 """
 Created on Tue Apr 24 10:08:55 2018
 This is for plotting and data collecting.
-@author: Jie Zhang
+@author: Frank
 """
 
 import numpy as np
