@@ -15,6 +15,6 @@ The main procedure is like this:
 
 5). Use Spyder to run the file plot.py, and you will be asked to input the composition of target molecule: B_X N_Y H_Z, X Y Z means the number of B, N, and H atoms in one molecule, for example, you could input: 0 2 0, then it indicates Hygrogen, and then you can see the plot of generated hydrogen molecules with simulation time, and Spyder is convenient for data saving;
 
-6). For molecular recognition, in each time_step, the fingerprint data (in the form of vector) will be saved in excel format, users could use these data to write the structures of the generated molecules;
+6). For molecular recognition, in each time_step, the fingerprint data (in the form of vector) will be saved in one csv file, then users could use these data to write the structures of the generated molecules;
 
 This is a basic version for molecular recognition, more functions will be added into it, to make it more convenient for computational chemists.
