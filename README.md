@@ -8,11 +8,11 @@ This script can be applied to analyze the trajectory files of molecular dynamics
 ## Requirements:
 
 -	Python 3.6
--	Numpy X.X
--	Pandas X.X
--	Matplotlib X.X
--	Copy X.X
--	Json X.X
+-	Numpy 
+-	Pandas 
+-	Matplotlib 
+-	Copy 
+-	Json 
 
 ## Installation
 
