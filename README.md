@@ -5,9 +5,9 @@ This functional script can be applied to analyze the trajectory files of simulat
 Once you got a **LAMMPS** Trajectory file, you could apply our script for compositional analysis. 
 The main procedure is like this:
 
-- 1). You have to install Python in your desktop, keep all the files in one folder (you could change the bonding length in the setting file), and then run the main program **MoleculeClassification.py**;
+- 1). You have to install Python in your desktop, keep all the files in one folder (you could change the bonding length in the **setting** file), and then run the main program **MoleculeClassification.py**;
 
-- 2). Once the program is running, you need to type the name of the target trajectory file, which you want to analyze;
+- 2). Once the program is running, you will be required to type the name of the target trajectory file, which you want to analyze;
 
 - 3). Then the script will work and analyze the trajectory file, and do automatic saving of data;
 
