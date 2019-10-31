@@ -6,7 +6,7 @@ This functional script can be applied to analyze the trajectory files of simulat
 
 ## The main procedure is like this:
 
-- 1). You have to install Python in your desktop, keep all the files in one folder (you could change the bonding length in the **setting** file), and then run the main program **MoleculeClassification.py**;
+- 1). You have to install Python in your desktop （I recommend Python3.6）, keep all the files in one folder (you could change the bonding length in the **setting** file), and then run the main program **MoleculeClassification.py**;
 
 - 2). Once the program is running, you will be required to type the name of the target trajectory file, which you want to analyze;
 
