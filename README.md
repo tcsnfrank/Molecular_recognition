@@ -15,8 +15,7 @@ This script can be applied to analyze the trajectory files of molecular dynamics
 -	Json 
 
 ## Installation
-
-git clone https://github.com/tcsnfrank/Molecular_recognition
+https://github.com/tcsnfrank/Molecular_recognition
 
 ## Usage 
 
